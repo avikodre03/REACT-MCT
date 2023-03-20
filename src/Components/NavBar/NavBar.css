@@ -1,0 +1,28 @@
+.NavBar {
+    height: 10vh;
+    width: 100%;
+    border-bottom: 1px solid rgba(128, 128, 128, 0.747);
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    padding-right: 3rem;
+    background-color: black;
+
+}
+
+.NavBar a {
+    margin: 0 2rem;
+    text-decoration: none;
+    font-size: 1.2rem;
+    cursor: pointer;
+    color: white;
+}
+
+.NavBar button {
+    cursor: pointer;
+    margin: 0 2rem;
+    height: 30px;
+    width: 60px;
+    border-radius: 7px;
+    background-color: white;
+}
