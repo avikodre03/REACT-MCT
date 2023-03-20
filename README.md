@@ -9,9 +9,9 @@ https://react-mct-ten.vercel.app/
 and following Components are used..
 
 ### App should contain following Components
-***
-Home Component
-Product Component
+
+#  Home Component
+#  Product Component
 User Component
 ContactUs Component
 LoginPage Component
