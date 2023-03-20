@@ -25,7 +25,7 @@ and following Components are used..
 
 4) If User click on Products in Navbar,Then User Should Navigate to the Products categories shows in the left Panel and categories product titles on the right Panel.
 
-5)When Click on any Title Link, User Should Navigate to the show the details of the Entire Product.
+5) When Click on any Title Link, User Should Navigate to the show the details of the Entire Product.
 
 6) After Exist app User clicks on the Logout Button and then he Should Navigate to the LoginPage.
 
