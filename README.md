@@ -10,14 +10,14 @@ and following Components are used..
 
 ### App should contain following Components
 
-#  Home Component
-#  Product Component
+⋅⋅*Home Component
+⋅Product Component
 User Component
 ContactUs Component
 LoginPage Component
 ProductDetails Component
 NavBar Component
-***
+⋅⋅*
 
 2) Whenever Application Starts, It Should Show the Login LoginPage Open and in this app Login must Mandatory then Enter application.
 
