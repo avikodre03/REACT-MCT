@@ -8,7 +8,8 @@ https://react-mct-ten.vercel.app/
 1) In this React Apllication i have Implement the React App With the Filtering Feature and Implement the Routing,use Redux for the State Management.and Implement the ProtectedRoute for login.
 and following Components are used..
 
-# App should contain following Components
+### App should contain following Components
+**
 Home Component
 Product Component
 User Component
@@ -16,6 +17,7 @@ ContactUs Component
 LoginPage Component
 ProductDetails Component
 NavBar Component
+**
 
 2) Whenever Application Starts, It Should Show the Login LoginPage Open and in this app Login must Mandatory then Enter application.
 
